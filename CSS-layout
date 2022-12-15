@@ -1,0 +1,31 @@
+.container {
+    background-color: #2b2d2f;
+}
+
+.element {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 280px;
+    font-size: 36px;
+}
+
+#green-box {
+    background-color: #39e455;
+}
+
+#yellow-box {
+    background-color: #e0e025;
+}
+
+#blue-box {
+    background-color: #10476f;
+}
+
+.comments {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 280px;
+    font-size: 36px;
+}

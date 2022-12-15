@@ -1,0 +1,55 @@
+body {
+    background-color:none;
+}
+h1 {
+    color:black;
+    padding-left: 30px;
+}
+p{
+    color: none;
+    border: 0px solid burlywood;
+    padding: 0px;
+    margin-inline-end: 200px;
+    margin-left: 250px;
+}
+
+legend {
+    border: 1px solid grey;
+    padding: 1px;
+    margin-left: 150px;
+}
+
+label {
+   border: 0px;
+   padding-left: 2px;
+   margin-left: 250px;
+
+}
+
+textarea {
+    padding-top: 10px;
+    font-display:auto;
+    margin-top: 10px;
+    margin-inline-end: 10px;
+    border-radius: 4px;
+
+
+}
+
+input {
+  margin-trim: 50px;
+  border-radius: 4px;
+  padding-top: 10px;
+
+}
+
+button {
+    margin-left: 300px;
+
+}
+
+fieldset {
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border-width: 5px;
+}
